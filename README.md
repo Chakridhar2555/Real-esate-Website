@@ -1,5 +1,5 @@
 markdown
-Copy code
+
 # Real Estate Website
 
 This is a fully responsive real estate website developed using HTML, CSS, and JavaScript. The website includes pages for property listings, detailed property descriptions, and a contact form. It's designed to be user-friendly and visually appealing, making it easy for users to explore real estate properties and get in touch for inquiries.
@@ -72,21 +72,28 @@ Real-esate-Website/
 ├── properties.html        # Properties listing page
 ├── property-details.html  # Property details page
 └── README.md              # This file
-Contributing
+
+## Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
 
-Fork the project
+## Fork the project
+
+```bash
 Create a feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
+```
+```bash Commit your changes (git commit -m 'Add some AmazingFeature')
+```
+```bash
 Push to the branch (git push origin feature/AmazingFeature)
+```
 Open a pull request
-License
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-bash
-Copy code
 
-You can update the demo link and other specifics as needed.
+
+
 
 
 
