@@ -56,9 +56,9 @@ Copy code
 cd Real-esate-Website
 Open index.html in your browser to view the website.
 
-Folder Structure
-plaintext
-Copy code
+## Folder Structure
+```bash 
+
 Real-esate-Website/
 │
 ├── assets/
@@ -72,7 +72,7 @@ Real-esate-Website/
 ├── properties.html        # Properties listing page
 ├── property-details.html  # Property details page
 └── README.md              # This file
-
+```
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
 
